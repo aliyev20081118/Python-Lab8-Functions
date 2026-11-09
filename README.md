@@ -23,4 +23,4 @@ Bu layihə üzrə iş bölgüsü aşağıdakı kimi həyata keçirilmişdir:
 *   **Hesabatın Yığılması:** Müəllimin tələbinə uyğun olaraq mətnlərin bir PDF faylı strukturunda cəmləşdirilməsi.
 
 ---
-*Hazırlandı: 9 noyabr 2026-cı il 21:20 *
+*Hazırlandı: 9 noyabr 2026-cı il 21:20*
