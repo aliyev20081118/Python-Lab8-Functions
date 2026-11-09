@@ -30,7 +30,7 @@ def make_course(code, **details):
     for key, value in details.items():
         course_dict[key] = value
     return course_dict
-# Bonus task
+# Bonus Tapşırıq
 def make_student(name, score, group=""):
     student_dict = {"name": name, "score": score}
     if group:
