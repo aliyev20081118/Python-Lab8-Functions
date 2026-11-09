@@ -20,7 +20,7 @@ Bu layihə üzrə iş bölgüsü aşağıdakı kimi həyata keçirilmişdir:
 *   **Redaktə və Formatlama:** Tələbənin yazdığı kodların Python üslub qaydalarına (docstring, boşluqlar) uyğunlaşdırılması və səliqəyə salınması;
 *   **Xəta Həlli (Debugging):** `task8_fixed.py` faylındakı sintaksis və məntiq xətalarının tapılaraq düzəldilməsi və `ModuleNotFoundError` kimi gündəlik xətaların izahı;
 *   **İzahların Təkmilləşdirilməsi:** Hesabat üçün verilmiş qısa cavabların daha anlaşıqlı, akademik dildə yenidən formalaşdırılması;
-*   **Hesabatın Yığılması:** Müəllimin tələbinə uyğun olaraq mətnlərin bir DOCX faylı strukturunda cəmləşdirilməsi.
+*   **Hesabatın Yığılması:** Müəllimin tələbinə uyğun olaraq mətnlərin bir PDF faylı strukturunda cəmləşdirilməsi.
 
 ---
-*Hazırlandı: 2026-cı il*
+*Hazırlandı: 9 noyabr 2026-cı il*
